@@ -1,0 +1,17 @@
+{
+    "name": "Ulmernest esp32 BLE client",
+    "version": "1.0.0",
+    "description": "BLE conectivity for Ulmernest to access Nuki Smartlock 2.0 functionality.",
+    "repository":
+    {
+      "type": "git",
+      "url": ""
+    },
+    "authors": [],
+    "dependencies": {
+      "nkolban/ESP32 BLE Arduino": "^1.0.1",
+      "frankboesing/FastCRC": "^1.31"
+    },
+    "frameworks": "arduino",
+    "platforms": "espressif32"
+  }
